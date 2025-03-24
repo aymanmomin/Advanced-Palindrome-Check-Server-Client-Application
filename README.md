@@ -4,10 +4,6 @@ This application is a server-client system that checks for palindromes. The serv
 1. **Simple Palindrome Check**: Determines if a string is a palindrome (ignoring case, spaces, and special characters).
 2. **Complex Palindrome Check**: Determines if a string can be rearranged into a palindrome and calculates the minimum number of swaps required.
 
-## Info
-Ayman Momin<br>
-UCID: 30192494
-
 ## Disclaimer
 You may come across some codes snippets that aren't related to the problem, they were implemented for testing automation but doesn't affect the actual functionality or manual testing.
 
